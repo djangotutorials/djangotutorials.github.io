@@ -35,6 +35,6 @@ Your home for for modern Django tutorials with cutting-edge frameworks and libra
 <div>&nbsp;</div>
 {% include list-category-posts.html lang=page.lang category="articles" %}
 
----
+
 
 
