@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: about me
 excerpt: >
-  A few more words about this theme. This goes SEO!
+  This is a blog for Django tutorials
 permalink: /about.html
 header:
   image: /assets/patterns/upfeathers.png
@@ -12,8 +12,5 @@ lang: en
 order: 2
 ---
 
-This is the _Simple Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [jekyll-theme-simple-blog](https://github.com/lorepirri/jekyll-theme-simple-blog)
-
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
-
+I'm a Django developer and JavaScript Preacher. In this blog I will write about Django and related tools and libraries.
 {% include go-to-home-page.html %}
