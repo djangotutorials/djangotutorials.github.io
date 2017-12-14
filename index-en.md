@@ -10,10 +10,10 @@ permalink: /index.html
 header:
   image: /assets/img/home-header.jpg
 tagline: > # this means to ignore newlines until "repository:"
-    Your home for for modern Django tutorials with cutting-edge frameworks and libraries such as Angular 4+, React and Vue etc.
+    Your home  for modern Django tutorials with cutting-edge frameworks and libraries such as Angular 4+, React and Vue etc.
 
 excerpt: >
-    Your home for for modern Django tutorials with cutting-edge frameworks and libraries such as Angular 4+, React and Vue etc.
+    Your home for modern Django tutorials with cutting-edge frameworks and libraries such as Angular 4+, React and Vue etc.
 
 repository:
   is_project_page: false
@@ -25,14 +25,14 @@ ref: home
 lang: en
 ---
 
-Your home for for modern Django tutorials with cutting-edge frameworks and libraries such as Angular 4+, React and Vue etc.
+Your home  for modern Django tutorials with cutting-edge frameworks and libraries such as Angular 4+, React and Vue etc.
 
 
 {% include facebook-page-summary.html %}
 
 
 <h2>Latest Articles</h2>
-<div>&nbsp;</div>
+
 {% include list-category-posts.html lang=page.lang category="articles" %}
 
 
